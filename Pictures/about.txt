@@ -1,1 +1,4 @@
 Community banners, background, design files.
+
+Used resources:
+https://www.figma.com/community/file/1170409599630996108
