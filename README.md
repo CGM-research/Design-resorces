@@ -1,2 +1,2 @@
 # Design-resorces
-Extra files meant for public display
+Additional style files for public display
